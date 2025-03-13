@@ -1,7 +1,7 @@
 # **Smart-Alert-Lab-ML**  
 
 ## **Goal**  
-The goal of this project is to develop a machine learning model to predict room occupancy based on sensor data.  
+The goal of this project is to develop a machine learning model to predict room occupancy based on sensor data, and eventually also predict room activity and emergencies.
 
 ## **Data Dictionary**  
 
@@ -15,5 +15,5 @@ The goal of this project is to develop a machine learning model to predict room 
 | **occupied_note** | Manual input from the user indicating when the room is occupied. |
 
 ## **Work in Progress**  
-- **Vibration Sensor**: Integration and calibration in progress.  
-- **Sound Sensor**: Under development for improved occupancy detection.  
+- **Vibration Sensor**
+- **Sound Sensor**
