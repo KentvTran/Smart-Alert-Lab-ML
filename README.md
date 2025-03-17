@@ -7,11 +7,11 @@ The goal of this project is to develop a machine learning model to predict room 
 
 | Feature          | Description |
 |-----------------|-------------|
-| **second**      | Number of seconds passed since the start (starts at 31 in raw data). |
-| **distance**    | Distance data collected from the ADXL345 Accelerometer. |
+| **second**      | Number of seconds passed since the start (starts at 31 in raw data due to boot up & resets if power is unstable). |
+| **distance**    | Distance data collected from the ADXL345 Accelerometer. (has negative distance at every "31 second")|
 | **motion**      | Motion data collected from the HC-SR501 Motion Sensor. |
 | **lightIntensity** | Lux level data collected from the BH1750 Light Sensor. |
-| **occupied**    | Room occupancy status detected using two HC-SR04 Ultrasonic Sensors (tracks when someone leaves through a door). |
+| **occupied**    | Room occupancy status detected using two HC-SR04 Ultrasonic Sensors (tracks when someone enters & leaves through a door). |
 | **occupied_note** | Manual input from the user indicating when the room is occupied. |
 
 ## **Work in Progress**  
