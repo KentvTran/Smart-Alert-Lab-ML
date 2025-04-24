@@ -1,5 +1,6 @@
-## combined
-- combinedAll.csv is all data collected
+## combined as of 04/09
+- 04-21 is not in combined as it contains first draft of decision tree predictions
+- combinedAll.csv is all data collected 
 - combinedNoLK is all data Kent collected (wanted to test if different environment changes predictions)
 
 ---
@@ -83,3 +84,21 @@
 **12:57 / 16:09:08** – Left  
 **1:14 / 16:26:46** – Went to sleep  
 **9:45 / 24:57:07** – Turned off machine  
+
+---
+## 04-21  
+- **Mixed** (In Room / Not in Room)
+
+**12:38pm** – Turn on machine (in room, in desk)  
+**2:35** – Left house  
+**3:33 / 2:55:44** – Back in room  
+**4:18 / 3:39:31** – Went out to eat (left light on)  
+**4:35 / 3:57:10** – Back in room  
+**5:02 / 4:23:38** – Left for class  
+**6:55 / 6:17:00** – Back home  
+**8:12 / 7:33:30** – Go eat  
+**9:06 / 8:28:37** – Go out  
+**1:38am / 13:00:00** – Back home  
+**1:40 / 13:02:00** – Brush teeth  
+**1:57 / 13:19:25** – Sleep  
+**9:45** – Out of bed  
