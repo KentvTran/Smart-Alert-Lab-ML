@@ -1,5 +1,7 @@
 # **Smart-Alert-Lab-ML**  
 
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KentvTran/Smart-Alert-Lab-ML/blob/main/modeling.ipynb)
+
 ## **Goal**  
 The goal of this project is to develop a machine learning model to predict room occupancy based on sensor data, and eventually also predict room activity and emergencies.
 
